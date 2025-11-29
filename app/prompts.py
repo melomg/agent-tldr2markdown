@@ -1,7 +1,7 @@
 """Module for storing and retrieving agent instructions.
 
 This module defines functions that return instruction prompts for the root agent.
-These instructions guide the agent's behavior, workflow, and tool usages.
+These instructions guide the agent's behaviors, workflows, and tool usages.
 """
 
 EXAMPLE = """
