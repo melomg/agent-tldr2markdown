@@ -141,11 +141,15 @@ dmypy.json
 # PyCharm
 .idea
 
-# User-specific files
+# Terraform files
+*.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
 .terraform*
 .Terraform*
 
-
+# User-specific files
 tmp*
 
 # Node
